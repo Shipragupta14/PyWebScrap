@@ -1,0 +1,10 @@
+,desc,period,short_desc,temp,temp_num,night,noon
+0,"This Afternoon: Mostly sunny, with a high near 59. West wind 16 to 21 mph, with gusts as high as 26 mph. ",ThisAfternoon,Mostly Sunny,High: 59 °F,59,False,True
+1,"Tonight: Partly cloudy, with a low around 50. West wind 10 to 20 mph, with gusts as high as 24 mph. ",Tonight,Partly Cloudy,Low: 50 °F,50,True,False
+2,"Monday: Mostly sunny, with a high near 60. Breezy, with a light and variable wind becoming west 19 to 24 mph in the afternoon. Winds could gust as high as 30 mph. ",Monday,Partly Sunnythen MostlySunny andBreezy,High: 60 °F,60,False,True
+3,"Monday Night: Mostly cloudy, with a low around 51. Breezy, with a west wind 18 to 24 mph, with gusts as high as 30 mph. ",MondayNight,Partly Cloudyand Breezythen MostlyCloudy,Low: 51 °F,51,True,False
+4,"Tuesday: A 20 percent chance of showers.  Mostly cloudy, with a high near 60. Breezy, with a west wind 18 to 23 mph, with gusts as high as 29 mph.  New precipitation amounts of less than a tenth of an inch possible. ",Tuesday,Slight ChanceShowers andBreezy,High: 60 °F,60,False,True
+5,"Tuesday Night: A 20 percent chance of showers before midnight.  Mostly cloudy, with a low around 52. New precipitation amounts of less than a tenth of an inch possible. ",TuesdayNight,Slight ChanceShowers thenPartly Cloudy,Low: 52 °F,52,True,False
+6,"Wednesday: Sunny, with a high near 64.",Wednesday,Sunny,High: 64 °F,64,False,True
+7,"Wednesday Night: Mostly clear, with a low around 52.",WednesdayNight,Mostly Clear,Low: 52 °F,52,True,False
+8,"Thursday: Sunny, with a high near 72.",Thursday,Sunny,High: 72 °F,72,False,True
