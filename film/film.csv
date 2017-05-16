@@ -1,101 +1,101 @@
-,genre,metascore,runtime,title
+,genre,metascore,runtime,title,time_duration
 0,"
-Crime, Drama            ",80        ,142 min,The Shawshank Redemption
+Crime, Drama            ",80,142 min,The Shawshank Redemption,142
 1,"
-Action, Crime, Drama            ",82        ,152 min,The Dark Knight
+Action, Crime, Drama            ",82,152 min,The Dark Knight,152
 2,"
-Action, Adventure, Sci-Fi            ",74        ,148 min,Inception
+Action, Adventure, Sci-Fi            ",74,148 min,Inception,148
 3,"
-Drama            ",66        ,139 min,Fight Club
+Drama            ",66,139 min,Fight Club,139
 4,"
-Crime, Drama            ",94        ,154 min,Pulp Fiction
+Crime, Drama            ",94,154 min,Pulp Fiction,154
 5,"
-Comedy, Drama, Romance            ",82        ,142 min,Forrest Gump
+Comedy, Drama, Romance            ",82,142 min,Forrest Gump,142
 6,"
-Adventure, Drama, Fantasy            ",92        ,178 min,The Lord of the Rings: The Fellowship of the Ring
+Adventure, Drama, Fantasy            ",92,178 min,The Lord of the Rings: The Fellowship of the Ring,178
 7,"
-Action, Sci-Fi            ",73        ,136 min,The Matrix
+Action, Sci-Fi            ",73,136 min,The Matrix,136
 8,"
-Adventure, Drama, Fantasy            ",94        ,201 min,The Lord of the Rings: The Return of the King
+Adventure, Drama, Fantasy            ",94,201 min,The Lord of the Rings: The Return of the King,201
 9,"
-Crime, Drama            ",100        ,175 min,The Godfather
+Crime, Drama            ",100,175 min,The Godfather,175
 10,"
-Action, Thriller            ",78        ,164 min,The Dark Knight Rises
+Action, Thriller            ",78,164 min,The Dark Knight Rises,164
 11,"
-Adventure, Drama, Fantasy            ",88        ,179 min,The Lord of the Rings: The Two Towers
+Adventure, Drama, Fantasy            ",88,179 min,The Lord of the Rings: The Two Towers,179
 12,"
-Crime, Drama, Mystery            ",65        ,127 min,Se7en
+Crime, Drama, Mystery            ",65,127 min,Se7en,127
 13,"
-Action, Adventure, Drama            ",67        ,155 min,Gladiator
+Action, Adventure, Drama            ",67,155 min,Gladiator,155
 14,"
-Action, Adventure            ",70        ,140 min,Batman Begins
+Action, Adventure            ",70,140 min,Batman Begins,140
 15,"
-Action, Sci-Fi            ",69        ,143 min,The Avengers
+Action, Sci-Fi            ",69,143 min,The Avengers,143
 16,"
-Drama, Western            ",81        ,165 min,Django Unchained
+Drama, Western            ",81,165 min,Django Unchained,165
 17,"
-Action, Adventure, Fantasy            ",92        ,121 min,Star Wars
+Action, Adventure, Fantasy            ",92,121 min,Star Wars,121
 18,"
-Crime, Drama, Thriller            ",84        ,118 min,The Silence of the Lambs
+Crime, Drama, Thriller            ",84,118 min,The Silence of the Lambs,118
 19,"
-Adventure, Drama, War            ",69        ,153 min,Inglourious Basterds
+Adventure, Drama, War            ",69,153 min,Inglourious Basterds,153
 20,"
-Drama, War            ",90        ,169 min,Saving Private Ryan
+Drama, War            ",90,169 min,Saving Private Ryan,169
 21,"
-Crime, Drama, Thriller            ",85        ,151 min,The Departed
+Crime, Drama, Thriller            ",85,151 min,The Departed,151
 22,"
-Action, Adventure, Fantasy            ",83        ,162 min,Avatar
+Action, Adventure, Fantasy            ",83,162 min,Avatar,162
 23,"
-Biography, Drama, History            ",93        ,195 min,Schindler's List
+Biography, Drama, History            ",93,195 min,Schindler's List,195
 24,"
-Drama, Mystery, Sci-Fi            ",66        ,130 min,The Prestige
+Drama, Mystery, Sci-Fi            ",66,130 min,The Prestige,130
 25,"
-Action, Adventure, Fantasy            ",81        ,124 min,Star Wars: Episode V - The Empire Strikes Back
+Action, Adventure, Fantasy            ",81,124 min,Star Wars: Episode V - The Empire Strikes Back,124
 26,"
-Mystery, Thriller            ",80        ,113 min,Memento
+Mystery, Thriller            ",80,113 min,Memento,113
 27,"
-Drama, Romance            ",86        ,122 min,American Beauty
+Drama, Romance            ",86,122 min,American Beauty,122
 28,"
-Action, Adventure, Fantasy            ",63        ,143 min,Pirates of the Caribbean: The Curse of the Black Pearl
+Action, Adventure, Fantasy            ",63,143 min,Pirates of the Caribbean: The Curse of the Black Pearl,143
 29,"
-Mystery, Thriller            ",63        ,138 min,Shutter Island
+Mystery, Thriller            ",63,138 min,Shutter Island,138
 30,"
-Crime, Drama, Fantasy            ",61        ,189 min,The Green Mile
+Crime, Drama, Fantasy            ",61,189 min,The Green Mile,189
 31,"
-Crime, Drama            ",80        ,202 min,The Godfather: Part II
+Crime, Drama            ",80,202 min,The Godfather: Part II,202
 32,"
-Action, Drama, Thriller            ",62        ,132 min,V for Vendetta
+Action, Drama, Thriller            ",62,132 min,V for Vendetta,132
 33,"
-Drama, Romance            ",74        ,194 min,Titanic
+Drama, Romance            ",74,194 min,Titanic,194
 34,"
-Crime, Drama            ",62        ,119 min,American History X
+Crime, Drama            ",62,119 min,American History X,119
 35,"
-Crime, Drama, Mystery            ",77        ,106 min,The Usual Suspects
+Crime, Drama, Mystery            ",77,106 min,The Usual Suspects,106
 36,"
-Action, Sci-Fi, Thriller            ",75        ,137 min,Terminator 2: Judgment Day
+Action, Sci-Fi, Thriller            ",75,137 min,Terminator 2: Judgment Day,137
 37,"
-Adventure, Comedy, Sci-Fi            ",86        ,116 min,Back to the Future
+Adventure, Comedy, Sci-Fi            ",86,116 min,Back to the Future,116
 38,"
-Biography, Drama, History            ",68        ,178 min,Braveheart
+Biography, Drama, History            ",68,178 min,Braveheart,178
 39,"
-Action, Crime, Thriller            ",69        ,111 min,Kill Bill: Vol. 1
+Action, Crime, Thriller            ",69,111 min,Kill Bill: Vol. 1,111
 40,"
-Crime, Drama, Thriller            ",64        ,110 min,Léon
+Crime, Drama, Thriller            ",64,110 min,Léon,110
 41,"
-Crime, Drama            ",89        ,146 min,Goodfellas
+Crime, Drama            ",89,146 min,Goodfellas,146
 42,"
-Animation, Adventure, Family            ",94        ,98 min,WALL·E
+Animation, Adventure, Family            ",94,98 min,WALL·E,98
 43,"
-Animation, Adventure, Comedy            ",90        ,100 min,Finding Nemo
+Animation, Adventure, Comedy            ",90,100 min,Finding Nemo,100
 44,"
-Drama, Mystery, Thriller            ",64        ,107 min,The Sixth Sense
+Drama, Mystery, Thriller            ",64,107 min,The Sixth Sense,107
 45,"
-Action, Adventure, Fantasy            ",53        ,131 min,Star Wars: Episode VI - Return of the Jedi
+Action, Adventure, Fantasy            ",53,131 min,Star Wars: Episode VI - Return of the Jedi,131
 46,"
-Action, Adventure, Sci-Fi            ",79        ,126 min,Iron Man
+Action, Adventure, Sci-Fi            ",79,126 min,Iron Man,126
 47,"
-Adventure, Sci-Fi, Thriller            ",68        ,142 min,The Hunger Games
+Adventure, Sci-Fi, Thriller            ",68,142 min,The Hunger Games,142
 48,"
-Drama            ",80        ,133 min,One Flew Over the Cuckoo's Nest
+Drama            ",80,133 min,One Flew Over the Cuckoo's Nest,133
 49,"
-Animation, Adventure, Comedy            ",88        ,96 min,Up
+Animation, Adventure, Comedy            ",88,96 min,Up,96
