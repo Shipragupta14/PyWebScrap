@@ -1,0 +1,7 @@
+requests
+csv
+pandas
+BeautifulSoup
+matplotlib.pyplot
+numpy
+re
