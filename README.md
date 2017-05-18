@@ -31,6 +31,8 @@ film_info.plot( subplots = True,x='metascore', y='time_duration', style='o',kind
 film_info.plot( subplots = True,x='metascore', y='time_duration', style='o',kind = "hist", ax = axes[1,0])
 film_info.plot( subplots = True,x='metascore', y='time_duration', style='o',kind = "pie" ,ax = axes[1,1])
   ```
+  and here is the snippet of the first graph 
+  ![Figure 1](/film/images/figure1.png)
   * Using array values b/w scores and runtime
   ```python
   plt.figure(2)
@@ -47,6 +49,8 @@ plt.xlabel('runtime')
 plt.ylabel('scores')
 plt.show()
   ```
+  and here is the snippet of the second graph 
+  ![Figure 2](/film/images/figure2.png)
 Now, to import dataframe values into Excel sheet, we use 
 ```python
 film_info.to_csv("film.csv" , sep=',')
