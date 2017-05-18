@@ -1,9 +1,13 @@
+'''
+Author - Shipra Gupta
+Website Scrapped - http://www.imdb.com/title/
+
+'''
 import requests
 import csv
 import pandas as pd
 from bs4 import BeautifulSoup
 #from urllib2 import urlopen
-
 
 
 f = open('movie.txt','r')

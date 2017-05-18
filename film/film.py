@@ -1,3 +1,8 @@
+'''
+Author - Shipra Gupta
+Website Scrapped - http://www.imdb.com/search/title?at=0&start=1&title_type=feature&year=1950,2012&sort=num_votes,desc
+
+'''
 import requests
 import csv
 import pandas as pd
@@ -75,11 +80,14 @@ print(film_info)
 time_duration = film_info["runtime"].str.extract("(?P<time_duration>\d+)", expand=False)
 film_info["time_duration"] = time_duration.astype('int')
 
+#print (film_info["runtime"].describe())
+
 #film_info["runtime"] = film_info["runtime"].astype('int')
 film_info["metascore"] = film_info["metascore"].astype('int')
 
-#converting .py into .csv file 
+#converting dataframe into .csv file 
 film_info.to_csv("film.csv" , sep=',')
+
 
 #Draw a graph using dataframe values where we have drawn 4 kinds of graphs in a matrix form
 fig, axes = plt.subplots(nrows = 2,ncols = 2)
